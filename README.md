@@ -11,4 +11,8 @@ This application was built through a directed-acyclic graph of operators and use
 
 **Word Count**: This operator would take the words that it was given and increase their associated frequency or create a new frequency if it sees a new word.
 
+**WCPair**: This operator paired words with their correct frequencies.
+
+**File Word Count**: This operator would run until the EOF is reached and output a sorted list of words based on their frequencies.
+
 
