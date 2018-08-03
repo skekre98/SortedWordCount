@@ -4,5 +4,6 @@ A scalable Apache Apex application that can read in a large text file and output
 ## Built With
 This application was built through a directed-acyclic graph of operators and used [Maven](https://maven.apache.org/) for dependency management.
 
-## Operator 1: Line Reader
-This operator split the file into lines and passed each line onto the next operator.
+## Operators
+Line Reader: This operator split the file into lines and passed each line onto the next operator.
+
