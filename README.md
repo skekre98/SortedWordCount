@@ -6,7 +6,9 @@ This application was built through a directed-acyclic graph of operators and use
 
 ## Operators
 Line Reader: This operator split the file into lines and passed each line onto the next operator.
+
 Word Reader: This operator would read in the line and split it into different words.
+
 Word Count: This operator would take the words that it was given and increase their associated frequency or create a new frequency if it sees a new word.
 
 
